@@ -1,0 +1,23 @@
+body{
+  background-color: hsla(120, 40%, 70%, 0.5);
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width:5px;
+  border-color:grey;
+  width:100px;
+}
+h1{
+  color:#66bfbf;
+}
+h2{
+  color:#66bfbf;
+}
+h3{
+  color: #66bfbf;
+}
+a{
+  text-decoration:none;
+  color:blue;
+}
